@@ -24,3 +24,5 @@ If you have a currency you would like supported, open an issue requesting it.
 Store your cryptocurrency with confidence using Frozr's smart-contract time vault. Check it out now at [frozr.io](https://frozr.io/)!
 
 If that ever goes offline, [check this ipfs mirror](https://cool-surf-2864.on.fleek.co/).
+
+If you'd like to run the site on your local system to interact with the blockchain, it's as simple as cloning this repo, installing yarn, and running `yarn && yarn dev` in the directory where this code was cloned.
